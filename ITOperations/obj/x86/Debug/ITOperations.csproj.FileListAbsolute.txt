@@ -1,0 +1,11 @@
+D:\Projects\shing\ITOperations\ITOperations\bin\Debug\ITOperations.exe.config
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Debug\ITOperations.Properties.Resources.resources
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\shing\ITOperations\ITOperations\bin\Debug\ITOperations.exe
+D:\Projects\shing\ITOperations\ITOperations\bin\Debug\ITOperations.pdb
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Debug\ITOperations.exe
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Debug\ITOperations.pdb
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Debug\ITOperations.Menu.resources
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Debug\ITOperations.DailySales.resources

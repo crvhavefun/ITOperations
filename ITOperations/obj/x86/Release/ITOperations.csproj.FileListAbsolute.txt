@@ -1,0 +1,22 @@
+D:\Projects\shing\ITOperations\ITOperations\bin\Release\ITOperations.exe.config
+D:\Projects\shing\ITOperations\ITOperations\bin\Release\ITOperations.exe
+D:\Projects\shing\ITOperations\ITOperations\bin\Release\ITOperations.pdb
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Release\ITOperations.DailySales.resources
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Release\ITOperations.Menu.resources
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Release\ITOperations.Properties.Resources.resources
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Release\ITOperations.exe
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Release\ITOperations.pdb
+D:\Projects\shing\ITOperations\ITOperations\bin\Release\ClassLibrary.dll
+D:\Projects\shing\ITOperations\ITOperations\bin\Release\ClassLibrary.pdb
+D:\Projects\shing\ITOperations\ITOperations\bin\Release\ITOperations.exe.manifest
+D:\Projects\shing\ITOperations\ITOperations\bin\Release\ITOperations.application
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Release\ITOperations.exe.manifest
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Release\ITOperations.application
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Release\ITOperations.ShopDBFreeSpace.resources
+D:\Projects\shing\ITOperations\ITOperations\obj\x86\Release\ITOperations.ShopDBFreeSpaceReport.resources
+C:\Documents and Settings\hugowan\桌面\t\ITOperations\ITOperations\bin\Release\ITOperations.exe.config
+C:\Documents and Settings\hugowan\桌面\t\ITOperations\ITOperations\obj\x86\Release\ITOperations.exe
+C:\Documents and Settings\hugowan\桌面\t\ITOperations\ITOperations\obj\x86\Release\ITOperations.pdb

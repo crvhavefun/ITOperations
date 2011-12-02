@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ITOperations.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="crrhkdw" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">server=172.16.4.6;database=CRRHKDW;uid=dwroot;pwd=root1234*</Value>
+    </Setting>
+    <Setting Name="crrhkitop" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">server=168.143.1.197;database=IT_Operations;uid=it;pwd=itpass</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
